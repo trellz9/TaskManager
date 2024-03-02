@@ -1,0 +1,26 @@
+{
+"name": "tas9km2an3ager",
+"version": "1.0.0",
+"description": "TaskManager is a lightweight task management tool that helps users organize",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/trellz9/TaskManager.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "trellz9",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}

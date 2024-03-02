@@ -1,0 +1,1 @@
+TaskManager is a lightweight task management tool that helps users organize their tasks, set deadlines, and track their progress for improved productivity.
